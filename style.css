@@ -24,6 +24,10 @@
     font-size: 60px;
 }
 
+.calculator h1{
+    color: burlywood;
+}
+
 .calculator h1 span{
     color: #ffff76;
 }
